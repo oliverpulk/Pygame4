@@ -16,7 +16,7 @@ def main():
     square_size = 20  # Muuda siit ruudu suurust
     rows = HEIGHT // square_size
     cols = WIDTH // square_size
-    line_color = (255, 0, 0)  # Punane joon
+    line_color = (255,0, 0)  # Punane joon
 
     screen = pygame.display.set_mode((WIDTH, HEIGHT))
     pygame.display.set_caption("Harjutamine")

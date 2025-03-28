@@ -23,7 +23,7 @@ logo = pygame.transform.scale(logo, (265. , 45))
 sword = pygame.transform.scale(sword, (173, 143))
 tort = pygame.transform.scale(tort, (100, 93))
 
-# Fondi seaded
+#font
 font = pygame.font.Font(None, 33)
 text = font.render("Oliver Pulk", True, (255, 255, 255))
 arc_font = pygame.font.Font(None, 30)

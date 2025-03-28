@@ -7,7 +7,7 @@ pygame.init()
 
 
 lGreen = [153, 255, 153]
-red = [255, 0, 0]
+red = [255,0, 0]
 
 
 screen = pygame.display.set_mode((640, 480))
